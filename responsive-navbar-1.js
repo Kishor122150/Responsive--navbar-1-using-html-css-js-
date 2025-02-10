@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         navLinks.classList.toggle('active');
     });
 });
-/*
+
 // slider js code
 let currentSlide = 0;
 const slides = document.querySelector('.slides');
@@ -33,4 +33,3 @@ function prevSlide() {
 }
 
 // Remove auto-play (if previously added)
-*/
